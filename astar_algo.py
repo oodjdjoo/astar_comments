@@ -1,5 +1,6 @@
 import numpy as np
 ###config config ###
+ii
 class Astar2D:
 
     class Node:
